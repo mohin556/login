@@ -1,0 +1,108 @@
+h2{
+    color: green;
+    font-size: 42px;
+}
+.login-container{
+   background-color: #02386E;
+    height: 100vh;
+    padding-top: 180px;
+    
+    
+}
+onBlur{
+    color:red;
+}
+.login-form{
+    border: 2px solid black;
+    height: 440px;
+    width: 37%;
+    margin-left: 440px;
+    background-color: #A4B1CC;
+    border-radius: 25px;
+    
+}
+::placeholder{
+    color: #6F7A90;
+    font-weight: bold;
+   text-align: center;
+   font-size: 20px;
+}
+#input2{
+    margin-top: 10px;
+}
+.forget{
+   
+    margin-left: 120px;
+   
+  
+    
+}
+.lastdiv{
+
+font-size: 16px;
+font-weight: bolder;
+color: #6F7A90;
+ margin-left: 12px;
+}
+.lastPortion{
+    margin-top: 43px;
+   
+    display: flex;
+    margin-left: 58px;
+    
+}
+.forgot{
+    text-decoration: none;
+    color:#6F7A90 ;
+    font-size: 16px;
+    font-weight: bolder;
+}
+.button{
+    /* width: 90px;
+    margin-top: 8px;
+    margin-bottom: 5px;
+    float: left;
+    margin-left: 48px;
+    */
+    margin-top: 12px;
+    
+    width: 20%;
+    margin-left: 69px;
+ 
+    border-radius: 5px;
+  
+    
+}
+.google{
+    margin-top: 8px;
+    width: 120px;
+    height: 30px;
+    border-radius: 5px;
+    color: blue;
+    font-weight: bold;
+    border: 1px solid grey;
+}
+.btn{
+    border: 1px solid white;
+    width: 111px;
+    height: 35px;
+    border-radius: 5px;
+    font-weight: bolder;
+    background-color: grey;
+}
+.checkbox{
+  float: left;
+
+
+}
+.input{
+    width: 399px;
+    margin-top: 100px;
+    height: 31px;
+    background-color: black;
+    color: white;
+    padding: 5px;
+    font-size: 18px;
+    font-weight: bold;
+
+}
